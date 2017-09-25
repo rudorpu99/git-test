@@ -1,4 +1,4 @@
 @import "utf-8";
 
 h1{background-color:#ddd}
-p{color:red}
+ul li{list-style:square}
